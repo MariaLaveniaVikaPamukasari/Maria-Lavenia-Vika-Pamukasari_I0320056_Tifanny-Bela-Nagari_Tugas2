@@ -1,18 +1,18 @@
 #proses memasukan data ke dalam variabel
-nama = "John Doe"
+nama = "Maria Lavenia Vika Pamukasari"
 #proses mencetak variabel
 print(nama)
 
 #nilai dan tipe data dalam variabel dapat diubah
-umur = 20               #nilai awal
+umur = 18.1              #nilai awal
 print(umur)             #mencetak nilai umur
 type(umur)              #mengecek tipe data umur
-umur = "dua puluh satu" #nilai setelah diubah
+umur = "sembilan belas" #nilai setelah diubah
 print(umur)             #mencetak nilai umur
 type(umur)              #mengecek tipe data umur
 
-namaDepan = "Budi"
-namaBelakang = "Susanto"
+namaDepan = "Maria"
+namaBelakang = "Pamukasari"
 nama = namaDepan + " " + namaBelakang
 umur = 22
 hobi = "Berenang"

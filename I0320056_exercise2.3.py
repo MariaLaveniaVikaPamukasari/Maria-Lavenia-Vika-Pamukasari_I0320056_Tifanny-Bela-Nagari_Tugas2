@@ -4,7 +4,7 @@ import math
 print("Luas dan keliling lingkaran")
 
 #input nilai jari-jari
-r = float(input("Masukkan nilai jari-jari: ")
+r = float(input("Masukkan nilai jari-jari: "))
 
 #menghitung luas lingkaran
 luas_lingkaran = 3.14 * (r ** 2)
