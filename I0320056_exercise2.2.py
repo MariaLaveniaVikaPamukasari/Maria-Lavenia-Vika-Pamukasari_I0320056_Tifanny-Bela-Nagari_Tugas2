@@ -4,7 +4,7 @@ nama = "Maria Lavenia Vika Pamukasari"
 print(nama)
 
 #nilai dan tipe data dalam variabel dapat diubah
-umur = 18.1              #nilai awal
+umur = 18               #nilai awal
 print(umur)             #mencetak nilai umur
 type(umur)              #mengecek tipe data umur
 umur = "sembilan belas" #nilai setelah diubah
